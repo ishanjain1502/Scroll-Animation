@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    background-color: coral;
+}
+body{
+    font-family: sans-serif;
+}
+.intro{
+    height: 90vh;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border: transparent 10%;
+    padding: 10px;
+}
+.intro video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    margin: 0 auto;
+}
+.intro h1{   
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    font-size: 50px;
+    color: cyan;
+    background-color: transparent;
+}
+section h1{
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+    font-size: 80px;
+    color: black;
+}
