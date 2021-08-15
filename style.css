@@ -56,4 +56,10 @@ section h1{
         color: cyan;
         background-color: transparent;
     }
+    section h1{
+        padding-top: 200px;
+        text-align: center;
+        font-size: 50px;
+        color: black;
+    }
 }
